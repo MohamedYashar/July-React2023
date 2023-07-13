@@ -55,7 +55,7 @@ export default function About () {
 
                       <a class=" container-3  " aria-current="page" aria-label="Download CV" 
                       href=" https://drive.google.com/file/d/1indJ44M9gGDyMEwAqVDK7sYjs-rZS-xo/view?usp=sharing" target="_blank">
-                        Click here to Download CV</a>
+                        Click here to view and Download CV</a>
                                                                                                  
   
                     </div>
