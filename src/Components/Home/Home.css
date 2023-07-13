@@ -1,0 +1,20 @@
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 50px;
+    height: 40vh;
+}
+
+
+
+
+.container-2 h2{
+
+    margin-left: 50px;
+}
