@@ -125,13 +125,13 @@ export default function About () {
           <Typography>
           
             <div class="container-1">
-                <div ><img  src="https://ahsankhan.me/images/skills/javascript.png" title="JavaScript"/></div>
-                <div ><img  src="https://ahsankhan.me/images/skills/node.png" title="NodeJS"/></div>
-                <div ><img  src="https://ahsankhan.me/images/skills/react.png" title="React"/></div>
-                <div ><img  src="https://ahsankhan.me/images/skills/html.png" title="HTML"/></div>
-                <div ><img  src="https://ahsankhan.me/images/skills/css.png" title="CSS"/></div>
-                <div ><img  src="https://ahsankhan.me/images/skills/bootstrap.png" title="Bootstrap"/></div>
-                <div ><img  src="https://ahsankhan.me/images/skills/mongo.png" title="Mongo DB"/></div>
+                <div ><img class="container-1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQEO-lCffJlch5n9TVZ34BYYoDNFQ9LUkqf1V9V64lA&s" alt = "JavaScript" title="JavaScript"/></div>
+                <div ><img  class="container-1"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1BsdkcUG2xRnSC_OngNEuKSk7ZzVmOJlBM7EhzoUKg&s" alt = "NodeJS"  title="NodeJs"/></div>
+                <div ><img class="container-1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVm8bfeIkMuMduGdsb96a0X8Aq4MTfwRQTbi5K0PqOlg&s" alt = "ReactJs" title="ReactJs"/></div>
+                <div ><img class="container-1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYZQGijs7beOCmR6VSn2X-cY2IkMUUqAheedWMhdpAw&s" alt = "HTML" title="HTML"/></div>
+                <div ><img class="container-1"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt = "CSS" title="CSS"/></div>
+                <div ><img class="container-1" src="https://w7.pngwing.com/pngs/804/269/png-transparent-bootstrap-hd-logo-thumbnail.png" alt = "Bootstrap"  title="Bootstrap"/></div>
+                <div ><img class="container-1"src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg" alt = "Mongo DB" title="Mongo DB"/></div>
             </div>
 
 
